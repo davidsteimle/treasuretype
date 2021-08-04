@@ -1,0 +1,618 @@
+[
+  {
+    "TreasureType": "A",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "B",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "C",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 12,
+    "Probability": 20
+  },
+  {
+    "TreasureType": "D",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 10
+  },
+  {
+    "TreasureType": "E",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 10,
+    "Probability": 10
+  },
+  {
+    "TreasureType": "H",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 5,
+    "Die": 6,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "J",
+    "CoinType": "Copper",
+    "Multiplier": 1,
+    "Dice": 3,
+    "Die": 8,
+    "Probability": 100
+  },
+  {
+    "TreasureType": "O",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "Z",
+    "CoinType": "Copper",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 3,
+    "Probability": 20
+  },
+  {
+    "TreasureType": "A",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "B",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "C",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "D",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 12,
+    "Probability": 15
+  },
+  {
+    "TreasureType": "E",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 12,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "F",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 20,
+    "Probability": 10
+  },
+  {
+    "TreasureType": "H",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 100,
+    "Probability": 40
+  },
+  {
+    "TreasureType": "K",
+    "CoinType": "Silver",
+    "Multiplier": 1,
+    "Dice": 3,
+    "Die": 6,
+    "Probability": 100
+  },
+  {
+    "TreasureType": "O",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 3,
+    "Probability": 20
+  },
+  {
+    "TreasureType": "P",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "Z",
+    "CoinType": "Silver",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "A",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 35
+  },
+  {
+    "TreasureType": "B",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "C",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 10
+  },
+  {
+    "TreasureType": "D",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 15
+  },
+  {
+    "TreasureType": "E",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "F",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 12,
+    "Probability": 15
+  },
+  {
+    "TreasureType": "H",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 10,
+    "Die": 4,
+    "Probability": 40
+  },
+  {
+    "TreasureType": "L",
+    "CoinType": "Electrum",
+    "Multiplier": 1,
+    "Dice": 2,
+    "Die": 6,
+    "Probability": 100
+  },
+  {
+    "TreasureType": "P",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 2,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "Z",
+    "CoinType": "Electrum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "A",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 10,
+    "Probability": 40
+  },
+  {
+    "TreasureType": "B",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 3,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "D",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "E",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "F",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 10,
+    "Probability": 40
+  },
+  {
+    "TreasureType": "G",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 10,
+    "Die": 4,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "H",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 10,
+    "Die": 6,
+    "Probability": 55
+  },
+  {
+    "TreasureType": "M",
+    "CoinType": "Gold",
+    "Multiplier": 1,
+    "Dice": 2,
+    "Die": 4,
+    "Probability": 100
+  },
+  {
+    "TreasureType": "R",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 2,
+    "Die": 4,
+    "Probability": 40
+  },
+  {
+    "TreasureType": "W",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 5,
+    "Die": 6,
+    "Probability": 60
+  },
+  {
+    "TreasureType": "Y",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 2,
+    "Die": 6,
+    "Probability": 70
+  },
+  {
+    "TreasureType": "Z",
+    "CoinType": "Gold",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "A",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "F",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 35
+  },
+  {
+    "TreasureType": "G",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 20,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "H",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 5,
+    "Die": 10,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "I",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 3,
+    "Die": 6,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "N",
+    "CoinType": "Platinum",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 100
+  },
+  {
+    "TreasureType": "R",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 10,
+    "Die": 6,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "W",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 15
+  },
+  {
+    "TreasureType": "Z",
+    "CoinType": "Platinum",
+    "Multiplier": 1000,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "A",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 4,
+    "Die": 10,
+    "Probability": 40
+  },
+  {
+    "TreasureType": "B",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "C",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "D",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 10,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "E",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 12,
+    "Probability": 15
+  },
+  {
+    "TreasureType": "F",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 3,
+    "Die": 10,
+    "Probability": 20
+  },
+  {
+    "TreasureType": "G",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 5,
+    "Die": 4,
+    "Probability": 30
+  },
+  {
+    "TreasureType": "H",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 100,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "I",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 2,
+    "Die": 10,
+    "Probability": 55
+  },
+  {
+    "TreasureType": "R",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 4,
+    "Die": 8,
+    "Probability": 55
+  },
+  {
+    "TreasureType": "S",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 10,
+    "Die": 8,
+    "Probability": 90
+  },
+  {
+    "TreasureType": "W",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 10,
+    "Die": 8,
+    "Probability": 60
+  },
+  {
+    "TreasureType": "Z",
+    "CoinType": "Gems",
+    "Multiplier": 1,
+    "Dice": 10,
+    "Die": 6,
+    "Probability": 55
+  },
+  {
+    "TreasureType": "A",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 3,
+    "Die": 10,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "B",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 4,
+    "Probability": 20
+  },
+  {
+    "TreasureType": "C",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 3,
+    "Probability": 20
+  },
+  {
+    "TreasureType": "D",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 6,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "E",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 8,
+    "Probability": 10
+  },
+  {
+    "TreasureType": "F",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 10,
+    "Probability": 10
+  },
+  {
+    "TreasureType": "G",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 10,
+    "Probability": 25
+  },
+  {
+    "TreasureType": "H",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 10,
+    "Die": 4,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "I",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 12,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "R",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 1,
+    "Die": 12,
+    "Probability": 45
+  },
+  {
+    "TreasureType": "U",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 5,
+    "Die": 6,
+    "Probability": 80
+  },
+  {
+    "TreasureType": "W",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 5,
+    "Die": 8,
+    "Probability": 50
+  },
+  {
+    "TreasureType": "Z",
+    "CoinType": "Jewelry",
+    "Multiplier": 1,
+    "Dice": 5,
+    "Die": 6,
+    "Probability": 50
+  }
+]
